@@ -10,3 +10,6 @@
 [submodule "email-verification-test"]
 	path = email-verification-test
 	url = https://github.com/vacuitydev/email-verification-test.git
+[submodule "preview-pdf-test"]
+	path = preview-pdf-test
+	url = https://github.com/vacuitydev/preview-pdf-test.git
