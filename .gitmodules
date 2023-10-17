@@ -7,3 +7,6 @@
 [submodule "email-functionality-test"]
 	path = email-functionality-test
 	url = https://github.com/vacuitydev/email-functionality-test.git
+[submodule "email-verification-test"]
+	path = email-verification-test
+	url = https://github.com/vacuitydev/email-verification-test.git
