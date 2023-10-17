@@ -4,3 +4,6 @@
 [submodule "docx-generation-test"]
 	path = docx-generation-test
 	url = https://github.com/vacuitydev/docx-generation-test.git
+[submodule "email-functionality-test"]
+	path = email-functionality-test
+	url = https://github.com/vacuitydev/email-functionality-test.git
