@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.expiryTime = exports.BASE_URL = exports.SENDER_HOST = exports.SENDER_PORT = exports.SENDER_PASSWORD = exports.SENDER_USER = void 0;
+const dotenv = require("dotenv");
+dotenv.config();
+exports.SENDER_USER = process.env.SENDER_USER;
+exports.SENDER_PASSWORD = process.env.SENDER_PASSWORD;
+exports.SENDER_PORT = process.env.SENDER_PORT;
+exports.SENDER_HOST = process.env.SENDER_HOST;
+exports.BASE_URL = "localhost:3001";
+exports.expiryTime = new Date(5 * 1000);
