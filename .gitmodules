@@ -1,3 +1,6 @@
 [submodule "dnd-test"]
 	path = dnd-test
 	url = https://github.com/vacuitydev/dnd-test.git
+[submodule "docx-generation-test"]
+	path = docx-generation-test
+	url = https://github.com/vacuitydev/docx-generation-test.git
