@@ -13,3 +13,6 @@
 [submodule "preview-pdf-test"]
 	path = preview-pdf-test
 	url = https://github.com/vacuitydev/preview-pdf-test.git
+[submodule "parsing-test"]
+	path = parsing-test
+	url = https://github.com/vacuitydev/parsing-test.git
