@@ -1,21 +1,28 @@
 [submodule "dnd-test"]
 	path = dnd-test
 	url = https://github.com/vacuitydev/dnd-test.git
+	branch = master
 [submodule "docx-generation-test"]
 	path = docx-generation-test
 	url = https://github.com/vacuitydev/docx-generation-test.git
+	branch = master
 [submodule "email-functionality-test"]
 	path = email-functionality-test
 	url = https://github.com/vacuitydev/email-functionality-test.git
+	branch = master
 [submodule "email-verification-test"]
 	path = email-verification-test
 	url = https://github.com/vacuitydev/email-verification-test.git
+	branch = master
 [submodule "preview-pdf-test"]
 	path = preview-pdf-test
 	url = https://github.com/vacuitydev/preview-pdf-test.git
+	branch = master
 [submodule "parsing-test"]
 	path = parsing-test
 	url = https://github.com/vacuitydev/parsing-test.git
+	branch = master
 [submodule "markdown-to-docx-converter"]
 	path = markdown-to-docx-converter
 	url = https://github.com/vacuitydev/markdown-to-docx-converter.git
+	branch = master
