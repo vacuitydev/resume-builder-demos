@@ -16,3 +16,6 @@
 [submodule "parsing-test"]
 	path = parsing-test
 	url = https://github.com/vacuitydev/parsing-test.git
+[submodule "markdown-to-docx-converter"]
+	path = markdown-to-docx-converter
+	url = https://github.com/vacuitydev/markdown-to-docx-converter.git
